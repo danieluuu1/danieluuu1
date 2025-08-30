@@ -36,12 +36,12 @@
 ![Tech stack](https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css,react,nextjs,tailwind,kotlin,androidstudio,flask,postgres,supabase,firebase,docker,kubernetes,nginx,azure,linux,git,github,vscode,idea,eclipse,figma,postman,powershell&perline=12)
 
 ## 🚀 Proyectos destacados
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_1&theme=transparent&hide_border=true)](https://github.com/USERNAME/REPO_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_2&theme=transparent&hide_border=true)](https://github.com/USERNAME/REPO_2)
+[![StudyApp](https://studyapp-gamma.vercel.app/login)](https://github.com/danieluuu1/nextjs-geist-font-optimized-application)
+[![Fit-U](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_2&theme=transparent&hide_border=true)](https://github.com/danieluuu1/Fit-U)
 
-- 💡 [Proyecto 1] — App full‑stack (Next.js + Flask + PostgreSQL). Logros: autenticación básica, CRUD completo y despliegue con Docker.
-- 🔧 [Proyecto 2] — UI con React/Tailwind y consumo de APIs públicas. Logros: carga rápida, componentes reutilizables y pruebas con Postman.
-
+- 💡 StudyApp — App web sencilla para estudiar
+- 🔧 Fit-U — App generadora de rutinas de ejercicios impulsada por IA
+  
 ## 🏆 Certificaciones y logros
 - 🎓 [Curso/Certificación relevante: ej. AZ‑900 o similar] — [Año]
 - 🗣️ [Participación en hackathon/charla o workshop] — [Evento/Institución]
