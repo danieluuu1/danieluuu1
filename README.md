@@ -1,60 +1,106 @@
-#  ¡Hola, soy DANIEL!
+<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
+<h3 align="center">Student at MITS, Gwalior🌟.</h3>
 
-🌍 ECUADOR
+<br>
 
-🎓 Estudiante de Ingeniería de Software (5º semestre)
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 
-💻 Full‑Stack en formación
+<br>
 
-☁️ Interés en Backend/Cloud y Mobile
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-![👀 Visitas](https://komarev.com/ghpvc/?username=USERNAME&label=👀%20Visitas&color=0e75b6&style=flat)
+- 🌱 I’m currently learning Web Development and other programming languages
 
----
+- 📫 How to reach me **adampithewan@gmail.com**
 
-## 🙋 Sobre mí
-- 🎯 Me gusta transformar ideas en prototipos funcionales y medir su impacto (rendimiento, claridad del código y experiencia de usuario).
-- 🧱 Trabajo con principios de POO, estructuras de datos y algoritmos; organizo el código por responsabilidades y módulos.
-- 🌱 Aprendiendo actualmente: patrones de diseño, testing práctico, bases de cloud en Azure y orquestación con Kubernetes.
-- 🛠️ He desarrollado proyectos con React/Next.js + Tailwind en el front y Flask + PostgreSQL en el back; uso Git/GitHub para versionar.
-- 📚 Disfruto documentar con README claros, usar issues/PRs y mantener una comunicación simple y directa.
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
-## 🧰 Habilidades principales
-- 🏗️ Fundamentos: POO (Java/Python), estructuras de datos, algoritmos y complejidad; diseño modular y principios SOLID (nivel introductorio).
-- 🎨 Frontend: HTML, CSS, JS/TS, React y Next.js; TailwindCSS; responsive design y accesibilidad básica.
-- ⚙️ Backend/APIs: Python (Flask), REST, validaciones, autenticación básica; pruebas con Postman; PostgreSQL/SQL y Supabase.
-- 🗄️ Datos: modelado relacional sencillo, consultas SQL y optimización básica; Firebase para prototipos.
-- ☁️ DevOps/Infra: Git/GitHub (branched flow y PRs), Docker, nociones de Kubernetes, Nginx como reverse proxy, fundamentos de Azure.
-- 🧪 Calidad: pruebas unitarias básicas, linters/formateo, documentación técnica mínima y CI/CD introductorio.
+<br>
 
-![Tech stack](https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css,react,nextjs,tailwind,kotlin,androidstudio,flask,postgres,supabase,firebase,docker,kubernetes,nginx,azure,linux,git,github,vscode,idea,eclipse,figma,postman,powershell&perline=12)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+ <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+</p>
 
-## 🚀 Proyectos destacados
-[![StudyApp](https://studyapp-gamma.vercel.app/login)](https://github.com/danieluuu1/nextjs-geist-font-optimized-application)
-[![Fit-U](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_2&theme=transparent&hide_border=true)](https://github.com/danieluuu1/Fit-U)
+<br>
 
-- 💡 StudyApp — App web sencilla para estudiar
-- 🔧 Fit-U — App generadora de rutinas de ejercicios impulsada por IA
-  
-##  Certificaciones y logros
--  [Curso/Certificación relevante: ej. AZ‑900 o similar] — [Año]
--  [Participación en hackathon/charla o workshop] — [Evento/Institución]
--  [Contribución open‑source o proyecto académico destacado] — [Repo/Org]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
+    target="_blank" rel="noreferrer"> <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
+      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
+  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
+      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+      height="40" /> </a> </p>
 
-##  Forma de trabajo
--  Empiezo simple, itero rápido y documento lo esencial (README, scripts, envs).
--  Código legible: nombres claros, separación por capas/módulos y comentarios útiles.
--  Versionado y CI/CD básico: ramas, PRs pequeños y verificación automática donde aplica.
--  Comunicación directa: feedback breve, issues claras y gestión de tareas por prioridad.
+<br>
 
-## 📊 Analítica de GitHub
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danieluuu1&theme=tokyonight&hide_border=true&short_numbers=true&border=EB5454)](https://git.io/streak-stats)
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
 
-## 📫 Contacto
--  Email: danibree135@gmail.com
--  LinkedIn: EN PROCESO
--  Portafolio: EN PROCESO
--  Instagram: https://www.instagram.com/danieluuu1/
--  WhatsApp: https://wa.me/0964060997
+<br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+[Adam-pw](https://github.com/Adam-pw)
