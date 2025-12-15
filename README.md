@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 Soy, actualmente, estudiante de Ingenieria de Sodtware cursando Quinto Semestre
+- 🌱 Soy, actualmente, estudiante de Ingenieria de Software cursando Quinto Semestre
 
 - 📫 Puedes llegar a mi por: **faridzam447@gmail.com**
 
